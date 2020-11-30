@@ -127,5 +127,8 @@
       }
     }
   },
-  "defaultProject": "dialog-project"
+  "defaultProject": "dialog-project",
+  "cli": {
+    "defaultCollection": "@ngrx/schematics"
+  }
 }
